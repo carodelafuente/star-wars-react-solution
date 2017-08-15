@@ -1,0 +1,56 @@
+.App {
+  margin: 10px;
+  color: white;
+  font-family: gotham;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card{
+  margin: 5px;
+}
+
+.form{
+  text-align: center;
+}
+
+
+.header {
+  background-color: lightgrey;
+  width: 100%;
+  color: black;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+span {
+  font-size: 30px;
+  margin: 15px;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul li {
+  list-style: none;
+  color: black;
+}
+
+
+.vehicleBox {
+  background-color: lightgrey;
+  width: 400px;
+  margin: 10px;
+}
